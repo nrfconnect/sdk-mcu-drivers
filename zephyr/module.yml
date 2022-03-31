@@ -1,0 +1,5 @@
+name: cirrus-logic
+
+build:
+  cmake: .
+  kconfig: Kconfig

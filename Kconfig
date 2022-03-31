@@ -1,0 +1,8 @@
+#
+# Copyright (c) 2022 Nordic Semiconductor
+#
+# SPDX-License-Identifier: LicenseRef-Nordic-5-Clause
+#
+
+config HW_CODEC_CIRRUS_LOGIC
+    bool "Enable use of the Cirrus Logic drivers"
