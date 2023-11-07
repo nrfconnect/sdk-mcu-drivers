@@ -435,4 +435,8 @@ extern bsp_driver_if_t *bsp_driver_if_g;
  * API FUNCTIONS
  **********************************************************************************************************************/
 
+#ifdef __cplusplus
+}
+#endif
+
 #endif // BSP_DRIVER_IF_H
