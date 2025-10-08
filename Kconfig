@@ -5,4 +5,4 @@
 #
 
 config HW_CODEC_CIRRUS_LOGIC
-    bool "Enable use of the Cirrus Logic drivers"
+    bool "Use the Cirrus Logic drivers for HW codecs."
